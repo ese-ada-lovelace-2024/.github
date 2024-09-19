@@ -1,4 +1,4 @@
-#Welcome
+# Welcome
 ## This is the GitHub Organisation for the 2024/25 cohort of the 
 Ada Lovelace Academy in the Department of Earth Science & Enigneering at Imperial College London
 
